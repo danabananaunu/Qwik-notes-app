@@ -193,7 +193,7 @@ export default component$(() => {
   return (
     <div class="app-root">
       <header class="app-header">
-        <h1 class="app-title">Qwik Notes App</h1>
+        <h1 class="app-title">Qwik-notes-app</h1>
 
         <input
           class="search-input"
